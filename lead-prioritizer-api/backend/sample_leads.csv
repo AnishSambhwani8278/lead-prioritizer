@@ -1,0 +1,48 @@
+name,title,company,email,domain,location,company_size
+Alice Johnson,Founder & CEO,Acme Inc,alice@acme.com,acme.com,New York,11-50
+Bob Smith,Software Engineer,BuildCo,bob@build.co,build.co,Remote,51-200
+Charlie CEO,CEO,StartUp,charlie@startupmail.com,startupmail.com,San Francisco,1-10
+David Lee,CTO,TechWorks,david@techworks.com,techworks.com,Remote,201-1000
+Eve Kim,Head of Marketing,Brandify,eve@brandify.com,brandify.com,Los Angeles,51-200
+Frank Yang,Software Engineer,DevHouse,frank@devhouse.com,devhouse.com,Remote,11-50
+Grace Li,CFO,FinanceHub,grace@financehub.com,financehub.com,New York,201-1000
+Hank Miller,Manager,BuildCo,hank@build.co,build.co,Remote,51-200
+Ivy Chen,Intern,StartupLab,ivy@startuplab.com,startuplab.com,Remote,1-10
+Jackie Wu,Founder & CEO,NextGen,jackie@nextgen.com,nextgen.com,San Francisco,11-50
+Karen Smith,CTO,InnovateX,karen@innovatex.com,innovatex.com,Remote,51-200
+Leo Brown,Engineer,DevHouse,leo@devhouse.com,devhouse.com,New York,51-200
+Mia Davis,Head of Sales,Brandify,mia@brandify.com,brandify.com,Los Angeles,51-200
+Nina Patel,Software Engineer,TechWorks,nina@techworks.com,techworks.com,Remote,201-1000
+Oscar Li,CEO,StartUp,oscar@startupmail.com,startupmail.com,San Francisco,1-10
+Paul Wong,CFO,FinanceHub,paul@financehub.com,financehub.com,New York,201-1000
+Quincy Zhang,Intern,DevHouse,quincy@devhouse.com,devhouse.com,Remote,11-50
+Rachel Kim,Manager,BuildCo,rachel@build.co,build.co,Remote,51-200
+Steve Lee,Software Engineer,TechWorks,steve@techworks.com,techworks.com,Remote,201-1000
+Tina Brown,Head of Marketing,Brandify,tina@brandify.com,brandify.com,Los Angeles,51-200
+Uma Davis,Engineer,NextGen,uma@nextgen.com,nextgen.com,San Francisco,11-50
+Victor Chen,Founder & CEO,Acme Inc,victor@acme.com,acme.com,New York,11-50
+Wendy Li,CTO,InnovateX,wendy@innovatex.com,innovatex.com,Remote,51-200
+Xavier Miller,CFO,FinanceHub,xavier@financehub.com,financehub.com,New York,201-1000
+Yvonne Kim,Software Engineer,DevHouse,yvonne@devhouse.com,devhouse.com,Remote,11-50
+Zachary Lee,Manager,BuildCo,zachary@build.co,build.co,Remote,51-200
+Amy Chen,Intern,StartupLab,amy@startuplab.com,startuplab.com,Remote,1-10
+Brian Wong,CEO,StartUp,brian@startupmail.com,startupmail.com,San Francisco,1-10
+Catherine Brown,Founder & CEO,NextGen,catherine@nextgen.com,nextgen.com,San Francisco,11-50
+Daniel Lee,CTO,TechWorks,daniel@techworks.com,techworks.com,Remote,201-1000
+Emily Davis,Head of Sales,Brandify,emily@brandify.com,Los Angeles,51-200
+Felix Zhang,Engineer,DevHouse,felix@devhouse.com,devhouse.com,Remote,11-50
+Gloria Smith,CFO,FinanceHub,gloria@financehub.com,financehub.com,New York,201-1000
+Henry Kim,Manager,BuildCo,henry@build.co,build.co,Remote,51-200
+Isla Lee,Software Engineer,TechWorks,isla@techworks.com,techworks.com,Remote,201-1000
+Jason Brown,Head of Marketing,Brandify,jason@brandify.com,Los Angeles,51-200
+Kelly Chen,Engineer,NextGen,kelly@nextgen.com,San Francisco,11-50
+Liam Wong,Founder & CEO,Acme Inc,liam@acme.com,acme.com,New York,11-50
+Monica Li,CTO,InnovateX,monica@innovatex.com,innovatex.com,Remote,51-200
+Nathan Miller,CFO,FinanceHub,nathan@financehub.com,New York,201-1000
+Olivia Kim,Software Engineer,DevHouse,olivia@devhouse.com,Remote,11-50
+Patrick Lee,Manager,BuildCo,patrick@build.co,build.co,Remote,51-200
+Quinn Brown,Intern,StartupLab,quinn@startuplab.com,Remote,1-10
+Rebecca Davis,CEO,StartUp,rebecca@startupmail.com,San Francisco,1-10
+Samuel Chen,Founder & CEO,NextGen,samuel@nextgen.com,San Francisco,11-50
+Tracy Li,CTO,TechWorks,tracy@techworks.com,Remote,201-1000
+Umar Smith,Head of Sales,Brandify,umar@brandify.com,Los Angeles,51-200
