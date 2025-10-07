@@ -30,9 +30,9 @@ lead-prioritizer-api/
 │  ├─ requirements.txt
 │  └─ sample_leads.csv
 ├─ frontend/
-│  ├─ index.html
-│  └─ main.js
-└─ README.md
+   ├─ index.html
+   └─ main.js
+
 ```
 
 ---
@@ -73,7 +73,7 @@ The API runs at `http://127.0.0.1:5000/`.
 
 ## Sample CSV
 
-Use `backend/sample_leads.csv` or `backend/sample_leads_big.csv` to test the application.
+Use `backend/sample_leads.csv` to test the application.
 
 ---
 
